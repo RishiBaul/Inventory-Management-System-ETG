@@ -3,9 +3,12 @@ This repository has all the codes and files used to create Inventory Management 
 # About The Repository 
 I learnt JSON, NoSQL Database, File Handling With Python
 # Files
-Additems--> To Add,update,delete items in the inventory\n
-Purchaseitems--> To Purchase an item and create bill of the same and see the total sales till date.\n
-record.json--> It contains all the items of Inventory and its details.\n
+Additems--> To Add,update,delete items in the inventory
+
+Purchaseitems--> To Purchase an item and create bill of the same and see the total sales till date.
+
+record.json--> It contains all the items of Inventory and its details.
+
 sales.json--> It contains all the sales done it date.
 
 # Features 
