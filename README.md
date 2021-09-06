@@ -21,3 +21,15 @@ User Can Purchase New Items
 We Can Update The inventory
 
 We Can Check The Total sales 
+# Attributes Of Inventory
+1)Product Id
+
+2)Name Of The Product
+
+3)Type Of The Product
+
+4)Quantity Available
+
+5)Price Of Each Unit
+
+6)Discount On The Product
