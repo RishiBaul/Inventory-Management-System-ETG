@@ -13,7 +13,11 @@ sales.json--> It contains all the sales done it date.
 
 # Features 
 Adding New Items To The Inventory
+
 Deleting Items From Inventory
+
 User Can Purchase New Items
+
 We Can Update The inventory
+
 We Can Check The Total sales 
